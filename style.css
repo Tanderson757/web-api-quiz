@@ -1,0 +1,8 @@
+h2 {
+    text-align: center;
+}
+#final-score {
+    font-size: 48px;
+    font-weight: bolder;
+    width: 100px;
+}
