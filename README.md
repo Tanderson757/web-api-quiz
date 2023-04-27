@@ -1,1 +1,3 @@
-# web-api-quiz
+The goal of this project was to use Web APIs and DOM manipulation to create a webpage that presents the user with a quiz about coding.  
+This webpage utilizes javascript, a decent amount of html and very small amount of css. 
+When the user clicks on "Begin Quiz" they will then be presented with a series of questions with 4 possible answers.  If the user answers ithe question wrong 10 seconds will be deducted from the running timer.  At the end, the user's score is recorded according to how much time was left on the timer.  That score is recorded locally to the user and can be accessed by navigating to the "High Scores" link.
